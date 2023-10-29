@@ -13,7 +13,7 @@ This is a simple web application that fetches weather data from a weather API ba
 
 ## Demo
 
-You can view the live version of the weather web application [here](https://xsidz.github.io/PRODIGY_WD_05/).
+You can view the live version of the weather web application [here](https://prodweather.netlify.app/).
 
 ## Features
 
